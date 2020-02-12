@@ -1,0 +1,12 @@
+---
+applications:
+- name: pet-clinic-ower-service
+  instances: 1
+  memory: 1G
+  random-route: true
+  path: target/owner_service-0.0.1-SNAPSHOT.jar
+  services:
+  - mysql-pcf
+
+  
+    
