@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<apache.common.lang.version>3.0</apache.common.lang.version>
 		<cucumber.version>1.2.5</cucumber.version>
-		<junit-version>4.11</junit-version>
+		<junit-version>4.13.1</junit-version>
 		<swagger-version>2.9.2</swagger-version>
 	</properties>
 
